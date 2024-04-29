@@ -1,0 +1,10 @@
+git init
+git remote add
+git add .
+git commit
+git push
+git branch -M "branch name"
+git pull
+git checkout
+git clone
+pull request
