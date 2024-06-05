@@ -1,6 +1,6 @@
 WHAT I LEARNT IN GIT SESH:
 what is git and github
-diffrenece between git and github
+difference between git and github
 installation of git software
 launching git using github account and email
 link github and vs code 
